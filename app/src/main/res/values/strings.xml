@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Appmaps</string>
+    <string name="hint1">Ingrese Latitud -41.40338 </string>
+    <string name="hint2">Ingrese Longuitud -2.17403 </string>
+    <string name="bnt1" translatable="false">Ver Mapa</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
